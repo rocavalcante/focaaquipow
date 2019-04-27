@@ -1,0 +1,22 @@
+{
+  "name": "focaaquipow",
+  "version": "1.0.0",
+  "description": "Foca Aqui Pow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Foca aqui pow\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocavalcante/focaaquipow.git"
+  },
+  "keywords": [
+    "focaaquipow"
+  ],
+  "author": "Rodrigo Cavalcante <rodrigoibka@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rocavalcante/focaaquipow/issues"
+  },
+  "homepage": "https://github.com/rocavalcante/focaaquipow#readme"
+}
